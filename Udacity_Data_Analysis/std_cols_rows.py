@@ -18,7 +18,7 @@ def standardize(df):
 
 def standardize_rows(df):
     '''
-    standardize each row of DataFrame.rel
+    standardize each row of DataFrame
     '''
     std = df.sub(df.mean(axis='columns'), axis='index')
     correl = std.div(df.std(axis='columns'), axis='index')
