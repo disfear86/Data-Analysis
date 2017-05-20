@@ -2,13 +2,13 @@ A comparison of salaries of hall of fame players and players born after 1980
 in relation to their batting statistics (rbi's)
 
 Players born after 1980 scatter plot
-![After 1980](final_project/plots/1980.png)
+![1980](https://cloud.githubusercontent.com/assets/16935107/26277502/94e65810-3d91-11e7-975a-ecbb702c038b.png)
 
 Hall of famers scatter plot
-![Hall of Fame](https://raw.githubusercontent.com/disfear86/Data-Analysis/blob/master/final_project/plots/fame.png)
+![fame](https://cloud.githubusercontent.com/assets/16935107/26277503/9b1f1532-3d91-11e7-8c44-ec3055029d00.png)
 
 Combined scatter plot
-![Combined](https://raw.githubusercontent.com/disfear86/Data-Analysis/blob/master/final_project/plots/combined.png)
+![combined](https://cloud.githubusercontent.com/assets/16935107/26277504/9f767a9e-3d91-11e7-80bd-aa44bb91ac40.png)
 
 
 The baseball dataset was acquired from [seanlahman.com](http://www.seanlahman.com/baseball-archive/statistics/)
