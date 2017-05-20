@@ -8,6 +8,7 @@ Hall of famers scatter plot
 ![fame](https://cloud.githubusercontent.com/assets/16935107/26277503/9b1f1532-3d91-11e7-8c44-ec3055029d00.png)
 
 Combined scatter plot
+
 ![combined](https://cloud.githubusercontent.com/assets/16935107/26277504/9f767a9e-3d91-11e7-80bd-aa44bb91ac40.png)
 
 
