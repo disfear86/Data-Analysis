@@ -33,3 +33,8 @@ hall_stats['HallOfFame'] = pd.Series([True] * len(hall_stats['salary']), dtype=b
 
 # combine dataframes
 combine = top_stats.merge(hall_stats, how='outer')
+
+# seaborn scatterplot
+sns.lmplot('salary', 'RBI', data=combine, hue='HallOfFame', fit_reg=True)
+
+plt.show()
